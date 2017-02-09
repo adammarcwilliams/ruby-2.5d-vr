@@ -1,0 +1,31 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{B13488E9-3A3C-A1C6-9085-99373D372330}") = "Ruby 2.5D VR", "Assembly-CSharp.csproj", "{C0A67441-6DC8-B7B7-EAB8-0B552C3820C2}"
+EndProject
+Project("{B13488E9-3A3C-A1C6-9085-99373D372330}") = "Ruby 2.5D VR", "Assembly-CSharp-Editor-firstpass.csproj", "{B821A02A-E7D4-CE5C-B7E7-0EFAEA4E4699}"
+EndProject
+Project("{B13488E9-3A3C-A1C6-9085-99373D372330}") = "Ruby 2.5D VR", "Assembly-CSharp-Editor.csproj", "{65979C3A-B6E6-3B26-A77A-B7387D3AD37D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0A67441-6DC8-B7B7-EAB8-0B552C3820C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0A67441-6DC8-B7B7-EAB8-0B552C3820C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0A67441-6DC8-B7B7-EAB8-0B552C3820C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0A67441-6DC8-B7B7-EAB8-0B552C3820C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B821A02A-E7D4-CE5C-B7E7-0EFAEA4E4699}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B821A02A-E7D4-CE5C-B7E7-0EFAEA4E4699}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B821A02A-E7D4-CE5C-B7E7-0EFAEA4E4699}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B821A02A-E7D4-CE5C-B7E7-0EFAEA4E4699}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65979C3A-B6E6-3B26-A77A-B7387D3AD37D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65979C3A-B6E6-3B26-A77A-B7387D3AD37D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65979C3A-B6E6-3B26-A77A-B7387D3AD37D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65979C3A-B6E6-3B26-A77A-B7387D3AD37D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
