@@ -1,0 +1,3413 @@
+fileFormatVersion: 2
+guid: 4262e2ffd8a100b4c9a2b05bac394f60
+timeCreated: 1464696148
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Back_Skirt00
+    100002: Back_Skirt01
+    100004: Back_Skirt02
+    100006: Bone
+    100008: Bone Footsteps
+    100010: Bone Head
+    100012: Bone HeadNub
+    100014: Bone L Calf
+    100016: Bone L Clavicle
+    100018: Bone L Finger0
+    100020: Bone L Finger01
+    100022: Bone L Finger0Nub
+    100024: Bone L Finger1
+    100026: Bone L Finger11
+    100028: Bone L Finger1Nub
+    100030: Bone L Foot
+    100032: Bone L Forearm
+    100034: Bone L Hand
+    100036: Bone L Thigh
+    100038: Bone L Toe0
+    100040: Bone L Toe0Nub
+    100042: Bone L UpperArm
+    100044: Bone LHandW
+    100046: Bone Neck
+    100048: Bone Pelvis
+    100050: Bone R Calf
+    100052: Bone R Clavicle
+    100054: Bone R Finger0
+    100056: Bone R Finger01
+    100058: Bone R Finger0Nub
+    100060: Bone R Finger1
+    100062: Bone R Finger11
+    100064: Bone R Finger1Nub
+    100066: Bone R Foot
+    100068: Bone R Forearm
+    100070: Bone R Hand
+    100072: Bone R Thigh
+    100074: Bone R Toe0
+    100076: Bone R Toe0Nub
+    100078: Bone R UpperArm
+    100080: Bone RHandW
+    100082: Bone Spine
+    100084: Bone Spine1
+    100086: Front_Skirt00
+    100088: Front_Skirt01
+    100090: Front_Skirt02
+    100092: Gun
+    100094: Knife
+    100096: KnifeCover
+    100098: Left_Skirt00
+    100100: Left_Skirt01
+    100102: Left_Skirt02
+    100104: Right_Skirt00
+    100106: Right_Skirt01
+    100108: Right_Skirt02
+    100110: Root
+    100112: Stacy
+    100114: //RootNode
+    400000: Back_Skirt00
+    400002: Back_Skirt01
+    400004: Back_Skirt02
+    400006: Bone
+    400008: Bone Footsteps
+    400010: Bone Head
+    400012: Bone HeadNub
+    400014: Bone L Calf
+    400016: Bone L Clavicle
+    400018: Bone L Finger0
+    400020: Bone L Finger01
+    400022: Bone L Finger0Nub
+    400024: Bone L Finger1
+    400026: Bone L Finger11
+    400028: Bone L Finger1Nub
+    400030: Bone L Foot
+    400032: Bone L Forearm
+    400034: Bone L Hand
+    400036: Bone L Thigh
+    400038: Bone L Toe0
+    400040: Bone L Toe0Nub
+    400042: Bone L UpperArm
+    400044: Bone LHandW
+    400046: Bone Neck
+    400048: Bone Pelvis
+    400050: Bone R Calf
+    400052: Bone R Clavicle
+    400054: Bone R Finger0
+    400056: Bone R Finger01
+    400058: Bone R Finger0Nub
+    400060: Bone R Finger1
+    400062: Bone R Finger11
+    400064: Bone R Finger1Nub
+    400066: Bone R Foot
+    400068: Bone R Forearm
+    400070: Bone R Hand
+    400072: Bone R Thigh
+    400074: Bone R Toe0
+    400076: Bone R Toe0Nub
+    400078: Bone R UpperArm
+    400080: Bone RHandW
+    400082: Bone Spine
+    400084: Bone Spine1
+    400086: Front_Skirt00
+    400088: Front_Skirt01
+    400090: Front_Skirt02
+    400092: Gun
+    400094: Knife
+    400096: KnifeCover
+    400098: Left_Skirt00
+    400100: Left_Skirt01
+    400102: Left_Skirt02
+    400104: Right_Skirt00
+    400106: Right_Skirt01
+    400108: Right_Skirt02
+    400110: Root
+    400112: //RootNode
+    400114: Stacy
+    4300000: Stacy
+    4300002: KnifeCover
+    4300004: Knife
+    4300006: Gun
+    7400000: Stacy_Animation
+    7400002: Setup
+    7400004: Idle1
+    7400006: Idle2
+    7400008: Walk
+    7400010: Run
+    7400012: Jump_Start
+    7400014: Jump_Loop
+    7400016: Jump_Land
+    7400018: Roll
+    7400020: Attack1
+    7400022: Attack2
+    7400024: Attack3_Cri
+    7400026: Gun_Attack1
+    7400028: Gun_Attack2
+    7400030: Gun_Attack3_Cri
+    7400032: Buff
+    7400034: Hit
+    7400036: Big_Hit
+    7400038: Death
+    9500000: //RootNode
+    13700000: Gun
+    13700002: Knife
+    13700004: KnifeCover
+    13700006: Stacy
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'Stacy_Export' has import animation warnings
+      that might lower retargeting quality:\n\t'Bone Spine1' has translation animation
+      that will be discarded.\n\t'Bone L Clavicle' has translation animation that
+      will be discarded.\n\t'Bone R Clavicle' has translation animation that will
+      be discarded.\n\t'Bone L Thigh' has translation animation that will be discarded.\n\t'Bone
+      R Thigh' has translation animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Setup
+      takeName: Stacy_Export
+      firstFrame: 0
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone
+        weight: 1
+      - path: Bone/Bone Footsteps
+        weight: 1
+      - path: Bone/Bone LHandW
+        weight: 1
+      - path: Bone/Bone Pelvis
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Back_Skirt00
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Back_Skirt00/Back_Skirt01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Back_Skirt00/Back_Skirt01/Back_Skirt02
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh/Bone L Calf
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh/Bone L Calf/Bone L Foot
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh/Bone L Calf/Bone L Foot/Bone
+          L Toe0
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh/Bone L Calf/Bone L Foot/Bone
+          L Toe0/Bone L Toe0Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh/Bone R Calf
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh/Bone R Calf/Bone R Foot
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh/Bone R Calf/Bone R Foot/Bone
+          R Toe0
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh/Bone R Calf/Bone R Foot/Bone
+          R Toe0/Bone R Toe0Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone Head
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone Head/Bone HeadNub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger0
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger0/Bone L Finger01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger0/Bone L Finger01/Bone
+          L Finger0Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger1
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger1/Bone L Finger11
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger1/Bone L Finger11/Bone
+          L Finger1Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger0
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger0/Bone R Finger01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger0/Bone R Finger01/Bone
+          R Finger0Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger1
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger1/Bone R Finger11
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger1/Bone R Finger11/Bone
+          R Finger1Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Front_Skirt00
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Front_Skirt00/Front_Skirt01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Front_Skirt00/Front_Skirt01/Front_Skirt02
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Left_Skirt00
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Left_Skirt00/Left_Skirt01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Left_Skirt00/Left_Skirt01/Left_Skirt02
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Right_Skirt00
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Right_Skirt00/Right_Skirt01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Right_Skirt00/Right_Skirt01/Right_Skirt02
+        weight: 1
+      - path: Bone/Bone RHandW
+        weight: 1
+      - path: Gun
+        weight: 1
+      - path: Knife
+        weight: 1
+      - path: KnifeCover
+        weight: 1
+      - path: Stacy
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle1
+      takeName: Stacy_Export
+      firstFrame: 20
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone
+        weight: 1
+      - path: Bone/Bone Footsteps
+        weight: 1
+      - path: Bone/Bone LHandW
+        weight: 1
+      - path: Bone/Bone Pelvis
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Back_Skirt00
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Back_Skirt00/Back_Skirt01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Back_Skirt00/Back_Skirt01/Back_Skirt02
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh/Bone L Calf
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh/Bone L Calf/Bone L Foot
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh/Bone L Calf/Bone L Foot/Bone
+          L Toe0
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh/Bone L Calf/Bone L Foot/Bone
+          L Toe0/Bone L Toe0Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh/Bone R Calf
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh/Bone R Calf/Bone R Foot
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh/Bone R Calf/Bone R Foot/Bone
+          R Toe0
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh/Bone R Calf/Bone R Foot/Bone
+          R Toe0/Bone R Toe0Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone Head
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone Head/Bone HeadNub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger0
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger0/Bone L Finger01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger0/Bone L Finger01/Bone
+          L Finger0Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger1
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger1/Bone L Finger11
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger1/Bone L Finger11/Bone
+          L Finger1Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger0
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger0/Bone R Finger01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger0/Bone R Finger01/Bone
+          R Finger0Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger1
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger1/Bone R Finger11
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger1/Bone R Finger11/Bone
+          R Finger1Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Front_Skirt00
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Front_Skirt00/Front_Skirt01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Front_Skirt00/Front_Skirt01/Front_Skirt02
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Left_Skirt00
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Left_Skirt00/Left_Skirt01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Left_Skirt00/Left_Skirt01/Left_Skirt02
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Right_Skirt00
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Right_Skirt00/Right_Skirt01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Right_Skirt00/Right_Skirt01/Right_Skirt02
+        weight: 1
+      - path: Bone/Bone RHandW
+        weight: 1
+      - path: Gun
+        weight: 1
+      - path: Knife
+        weight: 1
+      - path: KnifeCover
+        weight: 1
+      - path: Stacy
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle2
+      takeName: Stacy_Export
+      firstFrame: 70
+      lastFrame: 180
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone
+        weight: 1
+      - path: Bone/Bone Footsteps
+        weight: 1
+      - path: Bone/Bone LHandW
+        weight: 1
+      - path: Bone/Bone Pelvis
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Back_Skirt00
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Back_Skirt00/Back_Skirt01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Back_Skirt00/Back_Skirt01/Back_Skirt02
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh/Bone L Calf
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh/Bone L Calf/Bone L Foot
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh/Bone L Calf/Bone L Foot/Bone
+          L Toe0
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh/Bone L Calf/Bone L Foot/Bone
+          L Toe0/Bone L Toe0Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh/Bone R Calf
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh/Bone R Calf/Bone R Foot
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh/Bone R Calf/Bone R Foot/Bone
+          R Toe0
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh/Bone R Calf/Bone R Foot/Bone
+          R Toe0/Bone R Toe0Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone Head
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone Head/Bone HeadNub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger0
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger0/Bone L Finger01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger0/Bone L Finger01/Bone
+          L Finger0Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger1
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger1/Bone L Finger11
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger1/Bone L Finger11/Bone
+          L Finger1Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger0
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger0/Bone R Finger01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger0/Bone R Finger01/Bone
+          R Finger0Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger1
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger1/Bone R Finger11
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger1/Bone R Finger11/Bone
+          R Finger1Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Front_Skirt00
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Front_Skirt00/Front_Skirt01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Front_Skirt00/Front_Skirt01/Front_Skirt02
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Left_Skirt00
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Left_Skirt00/Left_Skirt01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Left_Skirt00/Left_Skirt01/Left_Skirt02
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Right_Skirt00
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Right_Skirt00/Right_Skirt01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Right_Skirt00/Right_Skirt01/Right_Skirt02
+        weight: 1
+      - path: Bone/Bone RHandW
+        weight: 1
+      - path: Gun
+        weight: 1
+      - path: Knife
+        weight: 1
+      - path: KnifeCover
+        weight: 1
+      - path: Stacy
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Walk
+      takeName: Stacy_Export
+      firstFrame: 190
+      lastFrame: 230
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone
+        weight: 1
+      - path: Bone/Bone Footsteps
+        weight: 1
+      - path: Bone/Bone LHandW
+        weight: 1
+      - path: Bone/Bone Pelvis
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Back_Skirt00
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Back_Skirt00/Back_Skirt01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Back_Skirt00/Back_Skirt01/Back_Skirt02
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh/Bone L Calf
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh/Bone L Calf/Bone L Foot
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh/Bone L Calf/Bone L Foot/Bone
+          L Toe0
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh/Bone L Calf/Bone L Foot/Bone
+          L Toe0/Bone L Toe0Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh/Bone R Calf
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh/Bone R Calf/Bone R Foot
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh/Bone R Calf/Bone R Foot/Bone
+          R Toe0
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh/Bone R Calf/Bone R Foot/Bone
+          R Toe0/Bone R Toe0Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone Head
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone Head/Bone HeadNub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger0
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger0/Bone L Finger01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger0/Bone L Finger01/Bone
+          L Finger0Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger1
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger1/Bone L Finger11
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger1/Bone L Finger11/Bone
+          L Finger1Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger0
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger0/Bone R Finger01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger0/Bone R Finger01/Bone
+          R Finger0Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger1
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger1/Bone R Finger11
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger1/Bone R Finger11/Bone
+          R Finger1Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Front_Skirt00
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Front_Skirt00/Front_Skirt01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Front_Skirt00/Front_Skirt01/Front_Skirt02
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Left_Skirt00
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Left_Skirt00/Left_Skirt01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Left_Skirt00/Left_Skirt01/Left_Skirt02
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Right_Skirt00
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Right_Skirt00/Right_Skirt01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Right_Skirt00/Right_Skirt01/Right_Skirt02
+        weight: 1
+      - path: Bone/Bone RHandW
+        weight: 1
+      - path: Gun
+        weight: 1
+      - path: Knife
+        weight: 1
+      - path: KnifeCover
+        weight: 1
+      - path: Stacy
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Run
+      takeName: Stacy_Export
+      firstFrame: 240
+      lastFrame: 264
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone
+        weight: 1
+      - path: Bone/Bone Footsteps
+        weight: 1
+      - path: Bone/Bone LHandW
+        weight: 1
+      - path: Bone/Bone Pelvis
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Back_Skirt00
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Back_Skirt00/Back_Skirt01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Back_Skirt00/Back_Skirt01/Back_Skirt02
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh/Bone L Calf
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh/Bone L Calf/Bone L Foot
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh/Bone L Calf/Bone L Foot/Bone
+          L Toe0
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh/Bone L Calf/Bone L Foot/Bone
+          L Toe0/Bone L Toe0Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh/Bone R Calf
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh/Bone R Calf/Bone R Foot
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh/Bone R Calf/Bone R Foot/Bone
+          R Toe0
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh/Bone R Calf/Bone R Foot/Bone
+          R Toe0/Bone R Toe0Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone Head
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone Head/Bone HeadNub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger0
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger0/Bone L Finger01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger0/Bone L Finger01/Bone
+          L Finger0Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger1
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger1/Bone L Finger11
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger1/Bone L Finger11/Bone
+          L Finger1Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger0
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger0/Bone R Finger01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger0/Bone R Finger01/Bone
+          R Finger0Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger1
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger1/Bone R Finger11
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger1/Bone R Finger11/Bone
+          R Finger1Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Front_Skirt00
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Front_Skirt00/Front_Skirt01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Front_Skirt00/Front_Skirt01/Front_Skirt02
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Left_Skirt00
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Left_Skirt00/Left_Skirt01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Left_Skirt00/Left_Skirt01/Left_Skirt02
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Right_Skirt00
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Right_Skirt00/Right_Skirt01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Right_Skirt00/Right_Skirt01/Right_Skirt02
+        weight: 1
+      - path: Bone/Bone RHandW
+        weight: 1
+      - path: Gun
+        weight: 1
+      - path: Knife
+        weight: 1
+      - path: KnifeCover
+        weight: 1
+      - path: Stacy
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Jump_Start
+      takeName: Stacy_Export
+      firstFrame: 270
+      lastFrame: 285
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone
+        weight: 1
+      - path: Bone/Bone Footsteps
+        weight: 1
+      - path: Bone/Bone LHandW
+        weight: 1
+      - path: Bone/Bone Pelvis
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Back_Skirt00
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Back_Skirt00/Back_Skirt01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Back_Skirt00/Back_Skirt01/Back_Skirt02
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh/Bone L Calf
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh/Bone L Calf/Bone L Foot
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh/Bone L Calf/Bone L Foot/Bone
+          L Toe0
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh/Bone L Calf/Bone L Foot/Bone
+          L Toe0/Bone L Toe0Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh/Bone R Calf
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh/Bone R Calf/Bone R Foot
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh/Bone R Calf/Bone R Foot/Bone
+          R Toe0
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh/Bone R Calf/Bone R Foot/Bone
+          R Toe0/Bone R Toe0Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone Head
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone Head/Bone HeadNub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger0
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger0/Bone L Finger01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger0/Bone L Finger01/Bone
+          L Finger0Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger1
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger1/Bone L Finger11
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger1/Bone L Finger11/Bone
+          L Finger1Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger0
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger0/Bone R Finger01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger0/Bone R Finger01/Bone
+          R Finger0Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger1
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger1/Bone R Finger11
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger1/Bone R Finger11/Bone
+          R Finger1Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Front_Skirt00
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Front_Skirt00/Front_Skirt01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Front_Skirt00/Front_Skirt01/Front_Skirt02
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Left_Skirt00
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Left_Skirt00/Left_Skirt01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Left_Skirt00/Left_Skirt01/Left_Skirt02
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Right_Skirt00
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Right_Skirt00/Right_Skirt01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Right_Skirt00/Right_Skirt01/Right_Skirt02
+        weight: 1
+      - path: Bone/Bone RHandW
+        weight: 1
+      - path: Gun
+        weight: 1
+      - path: Knife
+        weight: 1
+      - path: KnifeCover
+        weight: 1
+      - path: Stacy
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Jump_Loop
+      takeName: Stacy_Export
+      firstFrame: 285
+      lastFrame: 295
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone
+        weight: 1
+      - path: Bone/Bone Footsteps
+        weight: 1
+      - path: Bone/Bone LHandW
+        weight: 1
+      - path: Bone/Bone Pelvis
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Back_Skirt00
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Back_Skirt00/Back_Skirt01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Back_Skirt00/Back_Skirt01/Back_Skirt02
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh/Bone L Calf
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh/Bone L Calf/Bone L Foot
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh/Bone L Calf/Bone L Foot/Bone
+          L Toe0
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh/Bone L Calf/Bone L Foot/Bone
+          L Toe0/Bone L Toe0Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh/Bone R Calf
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh/Bone R Calf/Bone R Foot
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh/Bone R Calf/Bone R Foot/Bone
+          R Toe0
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh/Bone R Calf/Bone R Foot/Bone
+          R Toe0/Bone R Toe0Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone Head
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone Head/Bone HeadNub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger0
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger0/Bone L Finger01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger0/Bone L Finger01/Bone
+          L Finger0Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger1
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger1/Bone L Finger11
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger1/Bone L Finger11/Bone
+          L Finger1Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger0
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger0/Bone R Finger01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger0/Bone R Finger01/Bone
+          R Finger0Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger1
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger1/Bone R Finger11
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger1/Bone R Finger11/Bone
+          R Finger1Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Front_Skirt00
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Front_Skirt00/Front_Skirt01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Front_Skirt00/Front_Skirt01/Front_Skirt02
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Left_Skirt00
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Left_Skirt00/Left_Skirt01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Left_Skirt00/Left_Skirt01/Left_Skirt02
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Right_Skirt00
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Right_Skirt00/Right_Skirt01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Right_Skirt00/Right_Skirt01/Right_Skirt02
+        weight: 1
+      - path: Bone/Bone RHandW
+        weight: 1
+      - path: Gun
+        weight: 1
+      - path: Knife
+        weight: 1
+      - path: KnifeCover
+        weight: 1
+      - path: Stacy
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Jump_Land
+      takeName: Stacy_Export
+      firstFrame: 295
+      lastFrame: 310
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone
+        weight: 1
+      - path: Bone/Bone Footsteps
+        weight: 1
+      - path: Bone/Bone LHandW
+        weight: 1
+      - path: Bone/Bone Pelvis
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Back_Skirt00
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Back_Skirt00/Back_Skirt01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Back_Skirt00/Back_Skirt01/Back_Skirt02
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh/Bone L Calf
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh/Bone L Calf/Bone L Foot
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh/Bone L Calf/Bone L Foot/Bone
+          L Toe0
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh/Bone L Calf/Bone L Foot/Bone
+          L Toe0/Bone L Toe0Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh/Bone R Calf
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh/Bone R Calf/Bone R Foot
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh/Bone R Calf/Bone R Foot/Bone
+          R Toe0
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh/Bone R Calf/Bone R Foot/Bone
+          R Toe0/Bone R Toe0Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone Head
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone Head/Bone HeadNub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger0
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger0/Bone L Finger01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger0/Bone L Finger01/Bone
+          L Finger0Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger1
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger1/Bone L Finger11
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger1/Bone L Finger11/Bone
+          L Finger1Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger0
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger0/Bone R Finger01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger0/Bone R Finger01/Bone
+          R Finger0Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger1
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger1/Bone R Finger11
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger1/Bone R Finger11/Bone
+          R Finger1Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Front_Skirt00
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Front_Skirt00/Front_Skirt01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Front_Skirt00/Front_Skirt01/Front_Skirt02
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Left_Skirt00
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Left_Skirt00/Left_Skirt01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Left_Skirt00/Left_Skirt01/Left_Skirt02
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Right_Skirt00
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Right_Skirt00/Right_Skirt01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Right_Skirt00/Right_Skirt01/Right_Skirt02
+        weight: 1
+      - path: Bone/Bone RHandW
+        weight: 1
+      - path: Gun
+        weight: 1
+      - path: Knife
+        weight: 1
+      - path: KnifeCover
+        weight: 1
+      - path: Stacy
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Roll
+      takeName: Stacy_Export
+      firstFrame: 320
+      lastFrame: 350
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone
+        weight: 1
+      - path: Bone/Bone Footsteps
+        weight: 1
+      - path: Bone/Bone LHandW
+        weight: 1
+      - path: Bone/Bone Pelvis
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Back_Skirt00
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Back_Skirt00/Back_Skirt01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Back_Skirt00/Back_Skirt01/Back_Skirt02
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh/Bone L Calf
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh/Bone L Calf/Bone L Foot
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh/Bone L Calf/Bone L Foot/Bone
+          L Toe0
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh/Bone L Calf/Bone L Foot/Bone
+          L Toe0/Bone L Toe0Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh/Bone R Calf
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh/Bone R Calf/Bone R Foot
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh/Bone R Calf/Bone R Foot/Bone
+          R Toe0
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh/Bone R Calf/Bone R Foot/Bone
+          R Toe0/Bone R Toe0Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone Head
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone Head/Bone HeadNub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger0
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger0/Bone L Finger01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger0/Bone L Finger01/Bone
+          L Finger0Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger1
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger1/Bone L Finger11
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger1/Bone L Finger11/Bone
+          L Finger1Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger0
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger0/Bone R Finger01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger0/Bone R Finger01/Bone
+          R Finger0Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger1
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger1/Bone R Finger11
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger1/Bone R Finger11/Bone
+          R Finger1Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Front_Skirt00
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Front_Skirt00/Front_Skirt01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Front_Skirt00/Front_Skirt01/Front_Skirt02
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Left_Skirt00
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Left_Skirt00/Left_Skirt01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Left_Skirt00/Left_Skirt01/Left_Skirt02
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Right_Skirt00
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Right_Skirt00/Right_Skirt01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Right_Skirt00/Right_Skirt01/Right_Skirt02
+        weight: 1
+      - path: Bone/Bone RHandW
+        weight: 1
+      - path: Gun
+        weight: 1
+      - path: Knife
+        weight: 1
+      - path: KnifeCover
+        weight: 1
+      - path: Stacy
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Attack1
+      takeName: Stacy_Export
+      firstFrame: 360
+      lastFrame: 390
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone
+        weight: 1
+      - path: Bone/Bone Footsteps
+        weight: 1
+      - path: Bone/Bone LHandW
+        weight: 1
+      - path: Bone/Bone Pelvis
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Back_Skirt00
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Back_Skirt00/Back_Skirt01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Back_Skirt00/Back_Skirt01/Back_Skirt02
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh/Bone L Calf
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh/Bone L Calf/Bone L Foot
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh/Bone L Calf/Bone L Foot/Bone
+          L Toe0
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh/Bone L Calf/Bone L Foot/Bone
+          L Toe0/Bone L Toe0Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh/Bone R Calf
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh/Bone R Calf/Bone R Foot
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh/Bone R Calf/Bone R Foot/Bone
+          R Toe0
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh/Bone R Calf/Bone R Foot/Bone
+          R Toe0/Bone R Toe0Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone Head
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone Head/Bone HeadNub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger0
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger0/Bone L Finger01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger0/Bone L Finger01/Bone
+          L Finger0Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger1
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger1/Bone L Finger11
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger1/Bone L Finger11/Bone
+          L Finger1Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger0
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger0/Bone R Finger01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger0/Bone R Finger01/Bone
+          R Finger0Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger1
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger1/Bone R Finger11
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger1/Bone R Finger11/Bone
+          R Finger1Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Front_Skirt00
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Front_Skirt00/Front_Skirt01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Front_Skirt00/Front_Skirt01/Front_Skirt02
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Left_Skirt00
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Left_Skirt00/Left_Skirt01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Left_Skirt00/Left_Skirt01/Left_Skirt02
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Right_Skirt00
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Right_Skirt00/Right_Skirt01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Right_Skirt00/Right_Skirt01/Right_Skirt02
+        weight: 1
+      - path: Bone/Bone RHandW
+        weight: 1
+      - path: Gun
+        weight: 1
+      - path: Knife
+        weight: 1
+      - path: KnifeCover
+        weight: 1
+      - path: Stacy
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Attack2
+      takeName: Stacy_Export
+      firstFrame: 400
+      lastFrame: 430
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone
+        weight: 1
+      - path: Bone/Bone Footsteps
+        weight: 1
+      - path: Bone/Bone LHandW
+        weight: 1
+      - path: Bone/Bone Pelvis
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Back_Skirt00
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Back_Skirt00/Back_Skirt01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Back_Skirt00/Back_Skirt01/Back_Skirt02
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh/Bone L Calf
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh/Bone L Calf/Bone L Foot
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh/Bone L Calf/Bone L Foot/Bone
+          L Toe0
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh/Bone L Calf/Bone L Foot/Bone
+          L Toe0/Bone L Toe0Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh/Bone R Calf
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh/Bone R Calf/Bone R Foot
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh/Bone R Calf/Bone R Foot/Bone
+          R Toe0
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh/Bone R Calf/Bone R Foot/Bone
+          R Toe0/Bone R Toe0Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone Head
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone Head/Bone HeadNub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger0
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger0/Bone L Finger01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger0/Bone L Finger01/Bone
+          L Finger0Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger1
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger1/Bone L Finger11
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger1/Bone L Finger11/Bone
+          L Finger1Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger0
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger0/Bone R Finger01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger0/Bone R Finger01/Bone
+          R Finger0Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger1
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger1/Bone R Finger11
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger1/Bone R Finger11/Bone
+          R Finger1Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Front_Skirt00
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Front_Skirt00/Front_Skirt01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Front_Skirt00/Front_Skirt01/Front_Skirt02
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Left_Skirt00
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Left_Skirt00/Left_Skirt01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Left_Skirt00/Left_Skirt01/Left_Skirt02
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Right_Skirt00
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Right_Skirt00/Right_Skirt01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Right_Skirt00/Right_Skirt01/Right_Skirt02
+        weight: 1
+      - path: Bone/Bone RHandW
+        weight: 1
+      - path: Gun
+        weight: 1
+      - path: Knife
+        weight: 1
+      - path: KnifeCover
+        weight: 1
+      - path: Stacy
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Attack3_Cri
+      takeName: Stacy_Export
+      firstFrame: 440
+      lastFrame: 470
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone
+        weight: 1
+      - path: Bone/Bone Footsteps
+        weight: 1
+      - path: Bone/Bone LHandW
+        weight: 1
+      - path: Bone/Bone Pelvis
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Back_Skirt00
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Back_Skirt00/Back_Skirt01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Back_Skirt00/Back_Skirt01/Back_Skirt02
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh/Bone L Calf
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh/Bone L Calf/Bone L Foot
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh/Bone L Calf/Bone L Foot/Bone
+          L Toe0
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh/Bone L Calf/Bone L Foot/Bone
+          L Toe0/Bone L Toe0Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh/Bone R Calf
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh/Bone R Calf/Bone R Foot
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh/Bone R Calf/Bone R Foot/Bone
+          R Toe0
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh/Bone R Calf/Bone R Foot/Bone
+          R Toe0/Bone R Toe0Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone Head
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone Head/Bone HeadNub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger0
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger0/Bone L Finger01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger0/Bone L Finger01/Bone
+          L Finger0Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger1
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger1/Bone L Finger11
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger1/Bone L Finger11/Bone
+          L Finger1Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger0
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger0/Bone R Finger01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger0/Bone R Finger01/Bone
+          R Finger0Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger1
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger1/Bone R Finger11
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger1/Bone R Finger11/Bone
+          R Finger1Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Front_Skirt00
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Front_Skirt00/Front_Skirt01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Front_Skirt00/Front_Skirt01/Front_Skirt02
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Left_Skirt00
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Left_Skirt00/Left_Skirt01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Left_Skirt00/Left_Skirt01/Left_Skirt02
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Right_Skirt00
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Right_Skirt00/Right_Skirt01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Right_Skirt00/Right_Skirt01/Right_Skirt02
+        weight: 1
+      - path: Bone/Bone RHandW
+        weight: 1
+      - path: Gun
+        weight: 1
+      - path: Knife
+        weight: 1
+      - path: KnifeCover
+        weight: 1
+      - path: Stacy
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Gun_Attack1
+      takeName: Stacy_Export
+      firstFrame: 480
+      lastFrame: 510
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone
+        weight: 1
+      - path: Bone/Bone Footsteps
+        weight: 1
+      - path: Bone/Bone LHandW
+        weight: 1
+      - path: Bone/Bone Pelvis
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Back_Skirt00
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Back_Skirt00/Back_Skirt01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Back_Skirt00/Back_Skirt01/Back_Skirt02
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh/Bone L Calf
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh/Bone L Calf/Bone L Foot
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh/Bone L Calf/Bone L Foot/Bone
+          L Toe0
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh/Bone L Calf/Bone L Foot/Bone
+          L Toe0/Bone L Toe0Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh/Bone R Calf
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh/Bone R Calf/Bone R Foot
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh/Bone R Calf/Bone R Foot/Bone
+          R Toe0
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh/Bone R Calf/Bone R Foot/Bone
+          R Toe0/Bone R Toe0Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone Head
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone Head/Bone HeadNub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger0
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger0/Bone L Finger01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger0/Bone L Finger01/Bone
+          L Finger0Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger1
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger1/Bone L Finger11
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger1/Bone L Finger11/Bone
+          L Finger1Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger0
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger0/Bone R Finger01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger0/Bone R Finger01/Bone
+          R Finger0Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger1
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger1/Bone R Finger11
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger1/Bone R Finger11/Bone
+          R Finger1Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Front_Skirt00
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Front_Skirt00/Front_Skirt01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Front_Skirt00/Front_Skirt01/Front_Skirt02
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Left_Skirt00
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Left_Skirt00/Left_Skirt01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Left_Skirt00/Left_Skirt01/Left_Skirt02
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Right_Skirt00
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Right_Skirt00/Right_Skirt01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Right_Skirt00/Right_Skirt01/Right_Skirt02
+        weight: 1
+      - path: Bone/Bone RHandW
+        weight: 1
+      - path: Gun
+        weight: 1
+      - path: Knife
+        weight: 1
+      - path: KnifeCover
+        weight: 1
+      - path: Stacy
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Gun_Attack2
+      takeName: Stacy_Export
+      firstFrame: 520
+      lastFrame: 550
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone
+        weight: 1
+      - path: Bone/Bone Footsteps
+        weight: 1
+      - path: Bone/Bone LHandW
+        weight: 1
+      - path: Bone/Bone Pelvis
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Back_Skirt00
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Back_Skirt00/Back_Skirt01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Back_Skirt00/Back_Skirt01/Back_Skirt02
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh/Bone L Calf
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh/Bone L Calf/Bone L Foot
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh/Bone L Calf/Bone L Foot/Bone
+          L Toe0
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh/Bone L Calf/Bone L Foot/Bone
+          L Toe0/Bone L Toe0Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh/Bone R Calf
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh/Bone R Calf/Bone R Foot
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh/Bone R Calf/Bone R Foot/Bone
+          R Toe0
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh/Bone R Calf/Bone R Foot/Bone
+          R Toe0/Bone R Toe0Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone Head
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone Head/Bone HeadNub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger0
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger0/Bone L Finger01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger0/Bone L Finger01/Bone
+          L Finger0Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger1
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger1/Bone L Finger11
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger1/Bone L Finger11/Bone
+          L Finger1Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger0
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger0/Bone R Finger01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger0/Bone R Finger01/Bone
+          R Finger0Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger1
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger1/Bone R Finger11
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger1/Bone R Finger11/Bone
+          R Finger1Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Front_Skirt00
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Front_Skirt00/Front_Skirt01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Front_Skirt00/Front_Skirt01/Front_Skirt02
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Left_Skirt00
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Left_Skirt00/Left_Skirt01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Left_Skirt00/Left_Skirt01/Left_Skirt02
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Right_Skirt00
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Right_Skirt00/Right_Skirt01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Right_Skirt00/Right_Skirt01/Right_Skirt02
+        weight: 1
+      - path: Bone/Bone RHandW
+        weight: 1
+      - path: Gun
+        weight: 1
+      - path: Knife
+        weight: 1
+      - path: KnifeCover
+        weight: 1
+      - path: Stacy
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Gun_Attack3_Cri
+      takeName: Stacy_Export
+      firstFrame: 560
+      lastFrame: 590
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone
+        weight: 1
+      - path: Bone/Bone Footsteps
+        weight: 1
+      - path: Bone/Bone LHandW
+        weight: 1
+      - path: Bone/Bone Pelvis
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Back_Skirt00
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Back_Skirt00/Back_Skirt01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Back_Skirt00/Back_Skirt01/Back_Skirt02
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh/Bone L Calf
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh/Bone L Calf/Bone L Foot
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh/Bone L Calf/Bone L Foot/Bone
+          L Toe0
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh/Bone L Calf/Bone L Foot/Bone
+          L Toe0/Bone L Toe0Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh/Bone R Calf
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh/Bone R Calf/Bone R Foot
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh/Bone R Calf/Bone R Foot/Bone
+          R Toe0
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh/Bone R Calf/Bone R Foot/Bone
+          R Toe0/Bone R Toe0Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone Head
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone Head/Bone HeadNub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger0
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger0/Bone L Finger01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger0/Bone L Finger01/Bone
+          L Finger0Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger1
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger1/Bone L Finger11
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger1/Bone L Finger11/Bone
+          L Finger1Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger0
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger0/Bone R Finger01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger0/Bone R Finger01/Bone
+          R Finger0Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger1
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger1/Bone R Finger11
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger1/Bone R Finger11/Bone
+          R Finger1Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Front_Skirt00
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Front_Skirt00/Front_Skirt01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Front_Skirt00/Front_Skirt01/Front_Skirt02
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Left_Skirt00
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Left_Skirt00/Left_Skirt01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Left_Skirt00/Left_Skirt01/Left_Skirt02
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Right_Skirt00
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Right_Skirt00/Right_Skirt01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Right_Skirt00/Right_Skirt01/Right_Skirt02
+        weight: 1
+      - path: Bone/Bone RHandW
+        weight: 1
+      - path: Gun
+        weight: 1
+      - path: Knife
+        weight: 1
+      - path: KnifeCover
+        weight: 1
+      - path: Stacy
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Buff
+      takeName: Stacy_Export
+      firstFrame: 600
+      lastFrame: 630
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone
+        weight: 1
+      - path: Bone/Bone Footsteps
+        weight: 1
+      - path: Bone/Bone LHandW
+        weight: 1
+      - path: Bone/Bone Pelvis
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Back_Skirt00
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Back_Skirt00/Back_Skirt01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Back_Skirt00/Back_Skirt01/Back_Skirt02
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh/Bone L Calf
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh/Bone L Calf/Bone L Foot
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh/Bone L Calf/Bone L Foot/Bone
+          L Toe0
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh/Bone L Calf/Bone L Foot/Bone
+          L Toe0/Bone L Toe0Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh/Bone R Calf
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh/Bone R Calf/Bone R Foot
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh/Bone R Calf/Bone R Foot/Bone
+          R Toe0
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh/Bone R Calf/Bone R Foot/Bone
+          R Toe0/Bone R Toe0Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone Head
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone Head/Bone HeadNub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger0
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger0/Bone L Finger01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger0/Bone L Finger01/Bone
+          L Finger0Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger1
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger1/Bone L Finger11
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger1/Bone L Finger11/Bone
+          L Finger1Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger0
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger0/Bone R Finger01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger0/Bone R Finger01/Bone
+          R Finger0Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger1
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger1/Bone R Finger11
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger1/Bone R Finger11/Bone
+          R Finger1Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Front_Skirt00
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Front_Skirt00/Front_Skirt01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Front_Skirt00/Front_Skirt01/Front_Skirt02
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Left_Skirt00
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Left_Skirt00/Left_Skirt01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Left_Skirt00/Left_Skirt01/Left_Skirt02
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Right_Skirt00
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Right_Skirt00/Right_Skirt01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Right_Skirt00/Right_Skirt01/Right_Skirt02
+        weight: 1
+      - path: Bone/Bone RHandW
+        weight: 1
+      - path: Gun
+        weight: 1
+      - path: Knife
+        weight: 1
+      - path: KnifeCover
+        weight: 1
+      - path: Stacy
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Hit
+      takeName: Stacy_Export
+      firstFrame: 640
+      lastFrame: 670
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone
+        weight: 1
+      - path: Bone/Bone Footsteps
+        weight: 1
+      - path: Bone/Bone LHandW
+        weight: 1
+      - path: Bone/Bone Pelvis
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Back_Skirt00
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Back_Skirt00/Back_Skirt01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Back_Skirt00/Back_Skirt01/Back_Skirt02
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh/Bone L Calf
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh/Bone L Calf/Bone L Foot
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh/Bone L Calf/Bone L Foot/Bone
+          L Toe0
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh/Bone L Calf/Bone L Foot/Bone
+          L Toe0/Bone L Toe0Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh/Bone R Calf
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh/Bone R Calf/Bone R Foot
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh/Bone R Calf/Bone R Foot/Bone
+          R Toe0
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh/Bone R Calf/Bone R Foot/Bone
+          R Toe0/Bone R Toe0Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone Head
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone Head/Bone HeadNub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger0
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger0/Bone L Finger01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger0/Bone L Finger01/Bone
+          L Finger0Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger1
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger1/Bone L Finger11
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger1/Bone L Finger11/Bone
+          L Finger1Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger0
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger0/Bone R Finger01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger0/Bone R Finger01/Bone
+          R Finger0Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger1
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger1/Bone R Finger11
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger1/Bone R Finger11/Bone
+          R Finger1Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Front_Skirt00
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Front_Skirt00/Front_Skirt01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Front_Skirt00/Front_Skirt01/Front_Skirt02
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Left_Skirt00
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Left_Skirt00/Left_Skirt01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Left_Skirt00/Left_Skirt01/Left_Skirt02
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Right_Skirt00
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Right_Skirt00/Right_Skirt01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Right_Skirt00/Right_Skirt01/Right_Skirt02
+        weight: 1
+      - path: Bone/Bone RHandW
+        weight: 1
+      - path: Gun
+        weight: 1
+      - path: Knife
+        weight: 1
+      - path: KnifeCover
+        weight: 1
+      - path: Stacy
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Big_Hit
+      takeName: Stacy_Export
+      firstFrame: 680
+      lastFrame: 710
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone
+        weight: 1
+      - path: Bone/Bone Footsteps
+        weight: 1
+      - path: Bone/Bone LHandW
+        weight: 1
+      - path: Bone/Bone Pelvis
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Back_Skirt00
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Back_Skirt00/Back_Skirt01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Back_Skirt00/Back_Skirt01/Back_Skirt02
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh/Bone L Calf
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh/Bone L Calf/Bone L Foot
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh/Bone L Calf/Bone L Foot/Bone
+          L Toe0
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh/Bone L Calf/Bone L Foot/Bone
+          L Toe0/Bone L Toe0Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh/Bone R Calf
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh/Bone R Calf/Bone R Foot
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh/Bone R Calf/Bone R Foot/Bone
+          R Toe0
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh/Bone R Calf/Bone R Foot/Bone
+          R Toe0/Bone R Toe0Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone Head
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone Head/Bone HeadNub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger0
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger0/Bone L Finger01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger0/Bone L Finger01/Bone
+          L Finger0Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger1
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger1/Bone L Finger11
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger1/Bone L Finger11/Bone
+          L Finger1Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger0
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger0/Bone R Finger01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger0/Bone R Finger01/Bone
+          R Finger0Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger1
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger1/Bone R Finger11
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger1/Bone R Finger11/Bone
+          R Finger1Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Front_Skirt00
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Front_Skirt00/Front_Skirt01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Front_Skirt00/Front_Skirt01/Front_Skirt02
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Left_Skirt00
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Left_Skirt00/Left_Skirt01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Left_Skirt00/Left_Skirt01/Left_Skirt02
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Right_Skirt00
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Right_Skirt00/Right_Skirt01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Right_Skirt00/Right_Skirt01/Right_Skirt02
+        weight: 1
+      - path: Bone/Bone RHandW
+        weight: 1
+      - path: Gun
+        weight: 1
+      - path: Knife
+        weight: 1
+      - path: KnifeCover
+        weight: 1
+      - path: Stacy
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Death
+      takeName: Stacy_Export
+      firstFrame: 720
+      lastFrame: 770
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone
+        weight: 1
+      - path: Bone/Bone Footsteps
+        weight: 1
+      - path: Bone/Bone LHandW
+        weight: 1
+      - path: Bone/Bone Pelvis
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Back_Skirt00
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Back_Skirt00/Back_Skirt01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Back_Skirt00/Back_Skirt01/Back_Skirt02
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh/Bone L Calf
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh/Bone L Calf/Bone L Foot
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh/Bone L Calf/Bone L Foot/Bone
+          L Toe0
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone L Thigh/Bone L Calf/Bone L Foot/Bone
+          L Toe0/Bone L Toe0Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh/Bone R Calf
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh/Bone R Calf/Bone R Foot
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh/Bone R Calf/Bone R Foot/Bone
+          R Toe0
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone R Thigh/Bone R Calf/Bone R Foot/Bone
+          R Toe0/Bone R Toe0Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone Head
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone Head/Bone HeadNub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger0
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger0/Bone L Finger01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger0/Bone L Finger01/Bone
+          L Finger0Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger1
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger1/Bone L Finger11
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone L Clavicle/Bone
+          L UpperArm/Bone L Forearm/Bone L Hand/Bone L Finger1/Bone L Finger11/Bone
+          L Finger1Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger0
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger0/Bone R Finger01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger0/Bone R Finger01/Bone
+          R Finger0Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger1
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger1/Bone R Finger11
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Bone Spine1/Bone Neck/Bone R Clavicle/Bone
+          R UpperArm/Bone R Forearm/Bone R Hand/Bone R Finger1/Bone R Finger11/Bone
+          R Finger1Nub
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Front_Skirt00
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Front_Skirt00/Front_Skirt01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Front_Skirt00/Front_Skirt01/Front_Skirt02
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Left_Skirt00
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Left_Skirt00/Left_Skirt01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Left_Skirt00/Left_Skirt01/Left_Skirt02
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Right_Skirt00
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Right_Skirt00/Right_Skirt01
+        weight: 1
+      - path: Bone/Bone Pelvis/Bone Spine/Right_Skirt00/Right_Skirt01/Right_Skirt02
+        weight: 1
+      - path: Bone/Bone RHandW
+        weight: 1
+      - path: Gun
+        weight: 1
+      - path: Knife
+        weight: 1
+      - path: KnifeCover
+        weight: 1
+      - path: Stacy
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
